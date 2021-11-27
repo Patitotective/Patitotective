@@ -1,5 +1,5 @@
 ---
-title: Patitotective
+title: Home
 description: Home
 hide_table_of_contents: true
 ---
