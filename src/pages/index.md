@@ -23,7 +23,7 @@ I've been programming for about 2 years: I started with _Python_ and _C# (Unity)
 	align="right"
 />
 
-I've got some experience with GUI, mainly _PyQt_ (but I also have tried _GTK_ and _wxPython_).
+I've got some experience with GUI, mainly _PyQt_ (tried _GTK_ and _wxPython_ too).
 
 <a href="https://qt.io">
 <img

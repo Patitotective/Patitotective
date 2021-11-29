@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Patitotective',
   tagline: 'Patitotective\'s Website',
-  url: 'https://patitotective.gitub.io',
+  url: 'https://patitotective.github.io',
   baseUrl: '/Patitotective/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
