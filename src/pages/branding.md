@@ -1,6 +1,6 @@
 ---
 title: Branding
-description: Branding
+description: Patitotective's brand (avatar, logo, etc.)
 ---
 
 # Patitotective's Brand

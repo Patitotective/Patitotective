@@ -1,6 +1,6 @@
 ---
 title: About
-description: About
+description: About Patitotective
 hide_table_of_contents: true
 ---
 

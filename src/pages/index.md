@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Home
+description: Who is Patitotective? I am!
 hide_table_of_contents: true
 ---
 import ThemedImage from '@theme/ThemedImage';
