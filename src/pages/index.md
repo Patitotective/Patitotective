@@ -57,7 +57,7 @@ It does store the preferences inside a `.prefs` file with total human-readable s
 
 ***
 
-If you want to collaborate with me on a project, have a project startup, have found an error on any on my projects or want to say hi.  
+If you want to collaborate with me on a project, start a project together, report a bug or just want to say hi.  
 Do not hesitate to contact me at:
 - _Discord:_ Patitotective#0127.
 - _Discord_ server: https://discord.com/invite/as85Q4GnR6.

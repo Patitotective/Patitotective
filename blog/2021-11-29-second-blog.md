@@ -13,7 +13,7 @@ Why I haven't posted anything in the last two days? Well, I forgot to. Or so...
 ## Why I didn't post a blog on...
 
 ### November 27
-The previous Saturday (27 of November) I was "translating" my previous **Clockside**'s code that was made _wxPython_ library to use _PyQt5_ library.  
+The previous Saturday (27 of November) I was "translating" my previous **Clockside**'s code that was made with _wxPython_ library to use _PyQt5_ library.  
 Why? _wxPython_ (as I said in the [previous blog](./first)) supports native GUI (GTK on Linux, OSX on MacOs and Window on windows...) which means that wxPython’s widgets were being adjusted to fit each platform's GUI. For example, if I create my own widget or change the style of an existing one, it wouldn't look good on different platforms (unless I detect what platform the application is being ran on and change the style, but that would be too much work and I'm not sure if it will work). So I decided to use _PyQt_ because I can customize it to fit my needs.
 And I forgot to write a blog (and I was tired).
 
