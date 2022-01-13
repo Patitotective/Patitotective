@@ -18,7 +18,7 @@ Hello, I'm known as **Patitotective**, I'm a Python programmer with PyQt experie
 ![Patitotective github stats](https://github-readme-stats.vercel.app/api?username=patitotective&show_icons=true&title_color=f82371&icon_color=f8ca23&text_color=ffffff&bg_color=000000&border_color=ffffff)
 ***
 
-### [Join my Discord server to keep updated and discuss about all my open source projects.](https://discord.com/invite/as85Q4GnR6)
+### [Join my Discord server to keep updated and discuss about all my open source projects.](https://discord.gg/U23ZQMsvwc)
 
 - Discord: **Patitotective**#_0127_.
 - GitHub page: https://github.com/Patitotective.
