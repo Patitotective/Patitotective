@@ -6,6 +6,7 @@ Hello, I'm **Patitotective**, I'm a Nim ~~Python~~ programmer.
 - [**niprefs**](https://github.com/Patitotective/niprefs): Nim library to store and manage preferences.
 - [**ImThemes**](https://github.com/Patitotective/ImThemes): A Dear ImGui theme designer and browser written in Nim.
 - [**ImClocks**](https://github.com/Patitotective/ImClocks): A clocks Dear ImGui application written in Nim.
+- [**nimlangbot**](https://github.com/Patitotective/nimlangbot): Twitter bot that retweets and likes Nim related tweets.
 - [**RGB: Color Mess**](https://patitotective.itch.io/rgb-color-mess): A simple game made in _C#_ with Unity.
 
 ![Patitotective github stats](https://github-readme-stats.vercel.app/api?username=patitotective&show_icons=true&title_color=f82371&icon_color=f8ca23&text_color=ffffff&bg_color=000000&border_color=ffffff)
