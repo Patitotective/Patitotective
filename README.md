@@ -1,20 +1,23 @@
-Patitotective
----
-Hello, I'm **Patitotective**, I'm a Nim ~~Python~~ programmer.  
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🙂 Patitotective
+┣━━ 📦 Applications
+┃   ┣━━ <a href="https://github.com/Patitotective/ImThemes">ImThemes</a>                     - dear imgui theme designer and browser
+┃   ┣━━ <a href="https://github.com/Patitotective/ImClocks">ImClocks</a>                     - dear imgui clocks application
+┃   ┣━━ <a href="https://github.com/Patitotective/ImPasswordGen">ImPasswordGen</a>                - dear imgui random password generator application
+┃   ┣━━ <a href="https://github.com/Patitotective/ImTemplate">ImTemplate</a>                   - template for making a single-windowed dear imgui application
+┃   ┣━━ <a href="https://github.com/Patitotective/ImDemo">ImDemo</a>                       - dear imgui implementation of the 7GUIs tasks
+┣━━ 🔬 Nim Libriaries
+┃   ┣━━ <a href="https://github.com/Patitotective/niprefs">niprefs</a>                      - TOML based preferences system
+┃   ┣━━ <a href="https://github.com/Patitotective/downit">downit</a>                       - asynchronous downloads manager
+┃   ┣━━ <a href="https://github.com/Patitotective/ImStyle">ImStyle</a>                      - dear imgui styles manager
+┃   ┣━━ <a href="https://github.com/Patitotective/tinydialogs">tinydialogs</a>                  - tinyfiledialogs bindings for nim
+┣━━ 👍 Contributions
+┃   ┗━━ <a href="https://github.com/sharpcdf/jitter">jitter</a>                       - a git-based binary manager for linux
+┗━━ 👨‍💻 About
+    ┣━━ <a href="https://twitter.com/Patitotective">@patitotective</a>               - twitter
+    ┣━━ <a href="mailto:cristobalriaga@gmail.com">cristobalriaga@gmail.com</a>     - email
+    ┣━━ <a href="https://discordapp.com/users/762008715162419261">Patitotective#0127</a>           - discord 
+    ┗━━ <a href="https://discord.gg/U23ZQMsvwc">Patitotective Open Source</a>    - discord server
 
-### My Projects: 
-- [**niprefs**](https://github.com/Patitotective/niprefs): Nim library to store and manage preferences.
-- [**ImThemes**](https://github.com/Patitotective/ImThemes): A Dear ImGui theme designer and browser written in Nim.
-- [**ImClocks**](https://github.com/Patitotective/ImClocks): A clocks Dear ImGui application written in Nim.
-- [**nimlangbot**](https://github.com/Patitotective/nimlangbot): Twitter bot that retweets and likes Nim related tweets.
-- [**RGB: Color Mess**](https://patitotective.itch.io/rgb-color-mess): A simple game made in _C#_ with Unity.
-
+</pre>
 ![Patitotective github stats](https://github-readme-stats.vercel.app/api?username=patitotective&show_icons=true&title_color=f82371&icon_color=f8ca23&text_color=ffffff&bg_color=000000&border_color=ffffff)
 ***
-
-### [Join my Discord server to keep updated and discuss about all my projects.](https://discord.gg/U23ZQMsvwc)
-
-- Discord: **Patitotective**#_0127_.
-- GitHub: https://github.com/Patitotective.
-- Twitter: https://twitter.com/patitotective.
-- Email: cristobalriaga@gmail.com.
