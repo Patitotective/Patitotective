@@ -50,7 +50,7 @@ for e, (header, content) in data:
   output.addLine(&"{(if e == data.high: \"┗━━\" else: \"┣━━\")} {header}")
 
   for j, (name, text) in content:
-    output.addLine(&"{(if e == data.high: \" \" else: \"┃\")}   {(if j == content.high and e == data.high: \"┗━━\" else: \"┣━━\")} <a href=\"{text.link}\">{name}</a>{' '.repeat((longest - name.len) + 4)}- {text.desc}")
+    output.addLine(&"{(if e == data.high: \" \" else: \"┃\")}   {(if j == content.high: \"┗━━\" else: \"┣━━\")} <a href=\"{text.link}\">{name}</a>{' '.repeat((longest - name.len) + 4)}- {text.desc}")
 
 output.addLine("</pre>")
 output.addLine("![Patitotective github stats](https://github-readme-stats.vercel.app/api?username=patitotective&show_icons=true&title_color=f82371&icon_color=f8ca23&text_color=ffffff&bg_color=000000&border_color=ffffff)")
