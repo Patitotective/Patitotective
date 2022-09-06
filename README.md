@@ -10,7 +10,8 @@
 ┃   ┣━━ <a href="https://github.com/Patitotective/niprefs">niprefs</a>                      - TOML based preferences system
 ┃   ┣━━ <a href="https://github.com/Patitotective/downit">downit</a>                       - asynchronous downloads manager
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImStyle">ImStyle</a>                      - dear imgui styles manager
-┃   ┗━━ <a href="https://github.com/Patitotective/tinydialogs">tinydialogs</a>                  - tinyfiledialogs bindings for nim
+┃   ┣━━ <a href="https://github.com/Patitotective/tinydialogs">tinydialogs</a>                  - tinyfiledialogs bindings for nim
+┃   ┗━━ <a href="https://github.com/Patitotective/tinydialogs">ImNotify</a>                     - dear imgui notifications
 ┣━━ 🔬 Experiments
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImNimble">ImNimble</a>                     - dear imgui nimble client application
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImTextEditor">ImTextEditor</a>                 - dear imgui text editor
