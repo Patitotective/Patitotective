@@ -18,6 +18,7 @@ const data: seq[(string, seq[(string, Text)])] = @{
     "downit": ("https://github.com/Patitotective/downit", "asynchronous downloads manager"), 
     "ImStyle": ("https://github.com/Patitotective/ImStyle", "dear imgui styles manager"), 
     "tinydialogs": ("https://github.com/Patitotective/tinydialogs", "tinyfiledialogs bindings for nim"), 
+    "ImNotify": ("https://github.com/Patitotective/tinydialogs", "dear imgui notifications"), 
   }, 
   "🔬 Experiments": @{
     "ImNimble": ("https://github.com/Patitotective/ImNimble", "dear imgui nimble client application"), 
