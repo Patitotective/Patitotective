@@ -21,6 +21,7 @@ const data: seq[(string, seq[(string, Text)])] = @{
     "ImNotify": ("https://github.com/Patitotective/tinydialogs", "dear imgui notifications"), 
   }, 
   "🔬 Experiments": @{
+    "kdl-nim": ("https://github.com/Patitotective/kdl-nim", "KDL document language nim implementation"),  
     "ImNimble": ("https://github.com/Patitotective/ImNimble", "dear imgui nimble client application"), 
     "ImTextEditor": ("https://github.com/Patitotective/ImTextEditor", "dear imgui text editor"), 
     "ImNotes": ("https://github.com/Patitotective/ImNotes", "dear imgui note-taking application"), 
