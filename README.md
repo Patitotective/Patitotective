@@ -7,13 +7,13 @@
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImTemplate">ImTemplate</a>                   - template for making a single-windowed dear imgui application
 ┃   ┗━━ <a href="https://github.com/Patitotective/ImDemo">ImDemo</a>                       - dear imgui implementation of the 7GUIs tasks
 ┣━━ 📙 Libriaries
+┃   ┣━━ <a href="https://github.com/Patitotective/kdl-nim">kdl-nim</a>                      - KDL document language nim implementation
 ┃   ┣━━ <a href="https://github.com/Patitotective/niprefs">niprefs</a>                      - TOML based preferences system
 ┃   ┣━━ <a href="https://github.com/Patitotective/downit">downit</a>                       - asynchronous downloads manager
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImStyle">ImStyle</a>                      - dear imgui styles manager
 ┃   ┣━━ <a href="https://github.com/Patitotective/tinydialogs">tinydialogs</a>                  - tinyfiledialogs bindings for nim
 ┃   ┗━━ <a href="https://github.com/Patitotective/tinydialogs">ImNotify</a>                     - dear imgui notifications
 ┣━━ 🔬 Experiments
-┃   ┣━━ <a href="https://github.com/Patitotective/kdl-nim">kdl-nim</a>                      - KDL document language nim implementation
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImNimble">ImNimble</a>                     - dear imgui nimble client application
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImTextEditor">ImTextEditor</a>                 - dear imgui text editor
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImNotes">ImNotes</a>                      - dear imgui note-taking application
