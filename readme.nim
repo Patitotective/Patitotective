@@ -14,6 +14,7 @@ const data: seq[(string, seq[(string, Text)])] = @{
     "ImDemo": ("https://github.com/Patitotective/ImDemo", "dear imgui implementation of the 7GUIs tasks"), 
   }, 
   "📙 Libriaries": @{
+    "kdl-nim": ("https://github.com/Patitotective/kdl-nim", "KDL document language nim implementation"),  
     "niprefs": ("https://github.com/Patitotective/niprefs", "TOML based preferences system"), 
     "downit": ("https://github.com/Patitotective/downit", "asynchronous downloads manager"), 
     "ImStyle": ("https://github.com/Patitotective/ImStyle", "dear imgui styles manager"), 
@@ -21,7 +22,6 @@ const data: seq[(string, seq[(string, Text)])] = @{
     "ImNotify": ("https://github.com/Patitotective/tinydialogs", "dear imgui notifications"), 
   }, 
   "🔬 Experiments": @{
-    "kdl-nim": ("https://github.com/Patitotective/kdl-nim", "KDL document language nim implementation"),  
     "ImNimble": ("https://github.com/Patitotective/ImNimble", "dear imgui nimble client application"), 
     "ImTextEditor": ("https://github.com/Patitotective/ImTextEditor", "dear imgui text editor"), 
     "ImNotes": ("https://github.com/Patitotective/ImNotes", "dear imgui note-taking application"), 
