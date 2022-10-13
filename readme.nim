@@ -49,12 +49,19 @@ for (_, content) in data:
       longest = name.len
 
 for e, (header, content) in data:
-  output.addLine(&"{(if e == data.high: \"┗━━\" else: \"┣━━\")} {header}")
+  output.addLine &"{(if e == data.high: \"┗━━\" else: \"┣━━\")} {header}"
 
   for j, (name, text) in content:
-    output.addLine(&"{(if e == data.high: \" \" else: \"┃\")}   {(if j == content.high: \"┗━━\" else: \"┣━━\")} <a href=\"{text.link}\">{name}</a>{' '.repeat((longest - name.len) + 4)}- {text.desc}")
+    output.addLine &"{(if e == data.high: \" \" else: \"┃\")}   {(if j == content.high: \"┗━━\" else: \"┣━━\")} <a href=\"{text.link}\">{name}</a>{' '.repeat((longest - name.len) + 4)}- {text.desc}"
 
-output.addLine("</pre>")
-output.addLine("![Patitotective github stats](https://github-readme-stats.vercel.app/api?username=patitotective&show_icons=true&title_color=f82371&icon_color=f8ca23&text_color=ffffff&bg_color=000000&border_color=ffffff)")
+output.addLine "</pre>"
+output.add """
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=165 src="https://github-readme-stats.vercel.app/api?username=patitotective&count_private=true&show_icons=true&theme=monokai&include_all_commits=true&custom_title=Patitotective%27s%20GitHub" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patitotective&theme=monokai&exclude_repo=healeat&langs_count=3&layout=compact" />
+</a>
+"""
 
 writeFile("README.md", output)
