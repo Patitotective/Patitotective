@@ -6,7 +6,7 @@
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImPasswordGen">ImPasswordGen</a>                - dear imgui random password generator application
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImTemplate">ImTemplate</a>                   - template for making a single-windowed dear imgui application
 ┃   ┗━━ <a href="https://github.com/Patitotective/ImDemo">ImDemo</a>                       - dear imgui implementation of the 7GUIs tasks
-┣━━ 📙 Libriaries
+┣━━ 📙 Libraries
 ┃   ┣━━ <a href="https://github.com/Patitotective/kdl-nim">kdl-nim</a>                      - KDL document language nim implementation
 ┃   ┣━━ <a href="https://github.com/Patitotective/niprefs">niprefs</a>                      - TOML based preferences system
 ┃   ┣━━ <a href="https://github.com/Patitotective/downit">downit</a>                       - asynchronous downloads manager

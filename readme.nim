@@ -13,7 +13,7 @@ const data: seq[(string, seq[(string, Text)])] = @{
     "ImTemplate": ("https://github.com/Patitotective/ImTemplate", "template for making a single-windowed dear imgui application"), 
     "ImDemo": ("https://github.com/Patitotective/ImDemo", "dear imgui implementation of the 7GUIs tasks"), 
   }, 
-  "📙 Libriaries": @{
+  "📙 Libraries": @{
     "kdl-nim": ("https://github.com/Patitotective/kdl-nim", "KDL document language nim implementation"),  
     "niprefs": ("https://github.com/Patitotective/niprefs", "TOML based preferences system"), 
     "downit": ("https://github.com/Patitotective/downit", "asynchronous downloads manager"), 
