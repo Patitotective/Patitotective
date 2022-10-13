@@ -57,10 +57,8 @@ for e, (header, content) in data:
 output.addLine "</pre>"
 output.add """
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=165 src="https://github-readme-stats.vercel.app/api?username=patitotective&count_private=true&show_icons=true&theme=monokai&include_all_commits=true&custom_title=Patitotective%27s%20GitHub" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patitotective&theme=monokai&exclude_repo=healeat&langs_count=3&layout=compact" />
+  <img align="center" height=165 src="https://github-readme-stats.vercel.app/api?username=patitotective&count_private=true&show_icons=true&theme=monokai&include_all_commits=true&custom_title=Patitotective%27s%20GitHub&hide_border=true&border_radius=9" />
+  <img align="center" height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patitotective&theme=monokai&exclude_repo=healeat&langs_count=3&layout=compact&hide_border=true&border_radius=9" />
 </a>
 """
 
