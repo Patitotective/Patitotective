@@ -1,5 +1,6 @@
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🙂 Patitotective
 ┣━━ 📦 Applications & Bots
+┃   ┣━━ <a href="https://github.com/Patitotective/parabola">parabola</a>                     - projectile motion simulation (static) website
 ┃   ┣━━ <a href="https://github.com/Patitotective/nimlangbot">nimlangbot</a>                   - twitter bot that retweets and likes nimlang related tweets
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImThemes">ImThemes</a>                     - dear imgui theme designer and browser
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImClocks">ImClocks</a>                     - dear imgui clocks application
@@ -8,17 +9,11 @@
 ┃   ┗━━ <a href="https://github.com/Patitotective/ImDemo">ImDemo</a>                       - dear imgui implementation of the 7GUIs tasks
 ┣━━ 📙 Libraries
 ┃   ┣━━ <a href="https://github.com/Patitotective/kdl-nim">kdl-nim</a>                      - KDL document language nim implementation
-┃   ┣━━ <a href="https://github.com/Patitotective/niprefs">niprefs</a>                      - TOML based preferences system
 ┃   ┣━━ <a href="https://github.com/Patitotective/downit">downit</a>                       - asynchronous downloads manager
 ┃   ┣━━ <a href="https://github.com/Patitotective/ImStyle">ImStyle</a>                      - dear imgui styles manager
+┃   ┣━━ <a href="https://github.com/Patitotective/ImNotify">ImNotify</a>                     - dear imgui notifications
 ┃   ┣━━ <a href="https://github.com/Patitotective/tinydialogs">tinydialogs</a>                  - tinyfiledialogs bindings for nim
-┃   ┗━━ <a href="https://github.com/Patitotective/ImNotify">ImNotify</a>                     - dear imgui notifications
-┣━━ 🔬 Experiments
-┃   ┣━━ <a href="https://github.com/Patitotective/ImNimble">ImNimble</a>                     - dear imgui nimble client application
-┃   ┣━━ <a href="https://github.com/Patitotective/ImTextEditor">ImTextEditor</a>                 - dear imgui text editor
-┃   ┣━━ <a href="https://github.com/Patitotective/ImNotes">ImNotes</a>                      - dear imgui note-taking application
-┃   ┣━━ <a href="https://github.com/Patitotective/ImAppImage">ImAppImage</a>                   - dear imgui appimages browser and manager
-┃   ┗━━ <a href="https://github.com/Patitotective/ImClip">ImClip</a>                       - dear imgui clipboard manager application
+┃   ┗━━ <a href="https://github.com/Patitotective/minidocx-nim">minidocx-nim</a>                 - low level minidocx bindings for nim
 ┣━━ 👍 Contributions
 ┃   ┗━━ <a href="https://github.com/sharpcdf/jitter">jitter</a>                       - a git-based binary manager for linux
 ┗━━ 👨‍💻 About
